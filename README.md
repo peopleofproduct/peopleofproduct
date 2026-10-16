@@ -1,16 +1,18 @@
-## Hi there 👋
+# People of Product™
 
-<!--
-**peopleofproduct/peopleofproduct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build tools that make professionals more capable —
+and we open-source the ones that belong to everyone.
 
-Here are some ideas to get you started:
+## 🔓 Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+| ------- | ------------ |
+| [**Panini**](https://github.com/peopleofproduct/Panini) | Free, zero-dependency grammar engine for Indian bank narrations — ReBIT v2.0 AA + OCEN 4.0 |
+
+## 🏙️ Products
+
+[**Product City**](https://theproduct.city) — the only social AI app you need for your career growth in industry 5.0.
+
+---
+
+Find us: [Website](https://theproduct.city) · [LinkedIn](https://www.linkedin.com/company/people-of-product) · [X](https://x.com/PeopleOfProduct)
