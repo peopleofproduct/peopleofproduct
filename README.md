@@ -7,6 +7,7 @@ and we open-source the ones that belong to everyone.
 
 | Project | What it does |
 | ------- | ------------ |
+| [**Dzong Mail**](https://github.com/peopleofproduct/dzong-mail) | The world's first fully local AI email assistant — triage, drafts, digests and inbox analytics on your machine. Gmail, Outlook, any IMAP. MIT |
 | [**Panini**](https://github.com/peopleofproduct/Panini) | Free, zero-dependency grammar engine for Indian bank narrations — ReBIT v2.0 AA + OCEN 4.0 |
 
 ## 🏙️ Products
