@@ -7,7 +7,7 @@ and we open-source the ones that belong to everyone.
 
 | Project | What it does |
 | ------- | ------------ |
-| [**Krediwall**](https://github.com/peopleofproduct/krediwall) | Fraud firewall for credit-funded UPI payments — ALLOW/REVIEW/BLOCK verdicts in microseconds, inside the lender's stack. Apache-2.0 |
+| [**Krediwall**](https://github.com/peopleofproduct/krediwall) | Fraud check for credit-funded UPI — verdicts before the money moves. Apache-2.0 |
 | [**Panini**](https://github.com/peopleofproduct/Panini) | Free, zero-dependency grammar engine for Indian bank narrations — ReBIT v2.0 AA + OCEN 4.0 |
 | [**Dzong Mail**](https://github.com/peopleofproduct/dzong-mail) | Fully local AI email — your inbox, your models, your machine. MIT |
 
