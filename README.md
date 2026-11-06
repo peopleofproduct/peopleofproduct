@@ -1,7 +1,9 @@
 # People of Product™
 
-We build tools that make professionals more capable —
-and we open-source the ones that belong to everyone.
+Hey, I'm Kapil 👋 I run **People of Product™** — a community that took
+*with great power comes great responsibility* literally. We build the tools
+that protect the financial health of banks, lenders and frontier tech —
+open source, because the city's money deserves a friendly neighbourhood watch.
 
 ## 🔓 Open Source
 
