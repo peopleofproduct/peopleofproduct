@@ -7,6 +7,7 @@ and we open-source the ones that belong to everyone.
 
 | Project | What it does |
 | ------- | ------------ |
+| [**PayRekha**](https://github.com/peopleofproduct/payrekha) | Payout firewall for Indian BFSI — no matching intent, no payout. Apache-2.0 |
 | [**Krediwall**](https://github.com/peopleofproduct/krediwall) | Fraud check for credit-funded UPI — verdicts before the money moves. Apache-2.0 |
 | [**Panini**](https://github.com/peopleofproduct/Panini) | Free, zero-dependency grammar engine for Indian bank narrations — ReBIT v2.0 AA + OCEN 4.0 |
 | [**Dzong Mail**](https://github.com/peopleofproduct/dzong-mail) | Fully local AI email — your inbox, your models, your machine. MIT |
